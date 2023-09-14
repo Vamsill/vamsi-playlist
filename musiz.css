@@ -1,0 +1,36 @@
+body {
+  background-color: #000000;
+
+  /* Smoothly transition the background color */
+  transition: background-color .5s;
+}
+.hover-button {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  gap: 5x;
+}
+
+.hover-button:hover {
+  background-color: #000000;
+}
+.my-button{
+  background-color: #000000;
+  gap: 10x;
+}
+.my-button:hover {
+  background-color: #000000;
+}
+.home-button{
+  background-color: #000000;
+  align-items: left;
+}
+
+
+
+
+
